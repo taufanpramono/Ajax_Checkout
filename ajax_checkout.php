@@ -45,7 +45,7 @@
     <?php
     return ob_get_clean();
 }
-add_shortcode('custom_product', 'custom_product_shortcode');
+add_shortcode('custom_checkout_whatsapp', 'custom_product_shortcode');
 
 
 
@@ -74,4 +74,4 @@ add_action('wp_ajax_update_product_price', 'update_product_price');
 add_action('wp_ajax_nopriv_update_product_price', 'update_product_price');
 
 
-	?>
+?>
