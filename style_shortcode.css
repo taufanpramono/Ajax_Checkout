@@ -1,0 +1,73 @@
+selector .sub-total-information {
+    color : black;
+}
+
+selector .woocommerce-Price-amount.amount {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -23px;
+    margin-bottom: 15px;
+}
+
+
+selector .woocommerce-Price-currencySymbol {
+    font-size: 16px;
+    color: #333; 
+}
+
+selector bdi {
+    font-size: 16px; 
+    color: #333; 
+}
+
+selector .sub-total-information-two {
+    color : black;
+}
+
+selector .product-quantity {
+     display: flex;
+    justify-content: flex-end;
+     margin-top: -22px;
+}
+
+
+selector .gray-hr {
+    border: 0; 
+    border-top: 1px dashed #C9C9C9; 
+    margin: 10px 0 10px 0; 
+}
+
+
+selector .qty {
+    width: 60px; 
+    height: 40px; 
+    border: 2px solid #ccc; 
+    border-radius: 5px; 
+    padding: 5px 10px; 
+    font-size: 16px; 
+    box-sizing: border-box; 
+}
+
+selector .qty:focus {
+    border-color: #0073aa; 
+    outline: none; 
+}
+
+
+
+selector .whatsapp-button {
+   margin-left: 10px;
+   background: #2db742;
+   color : white;
+   padding: 11px;
+   border-radius: 5px;
+}
+
+selector .whatsapp-button img {
+    width: 20px;
+    height: auto;
+}
+
+selector .whatsapp-button:hover {
+    background-color: #128C7E;
+}

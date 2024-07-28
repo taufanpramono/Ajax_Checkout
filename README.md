@@ -3,6 +3,9 @@
 1. woocommerce
 2. Min Max Quantity & Step Control for WooCommerce
 
+## page builder
+1. Elementor 
+
 ## Plugin information 
 This plugin is used to automatically calculate product price + product quantity, using Wordpress Ajax, so that when a user checks out via WhatsApp it uses final data that changes dynamically
 
